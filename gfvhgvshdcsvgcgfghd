@@ -1,4 +1,4 @@
-
+.env
                    SSUUMMMMAARRYY OOFF LLEESSSS CCOOMMMMAANNDDSS
 
       Commands marked with * may be preceded by a number, _N.
@@ -31,3 +31,4 @@
   ESC-F                Like F but stop when search pattern is found.
   ESC-f                Like F but ring the bell when search pattern is found.
   r  ^R  ^L            Repaint screen.
+  .env
